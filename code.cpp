@@ -14,8 +14,7 @@ cin>>a;
 cout<<"enter the number b";
 cin>>b;
 int sum=a+b;
-cout<<"the sum of a and b is"<<sum;
-    
-    return 0;
+cout<<(sum);
+return 0;
 }
    
